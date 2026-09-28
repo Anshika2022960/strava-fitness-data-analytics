@@ -29,7 +29,7 @@ The project uses Python, SQL, SQLite, and Streamlit to create an interactive dat
 - Streamlit
 
 ## Dashboard Pages
-
+- Streamlit App Link [https://strava-fitness-data-analytics-wbfapzkgbpebijlwxmivjx.streamlit.app/]
 - Home
 - Daily Activity
 - Sleep Analysis
