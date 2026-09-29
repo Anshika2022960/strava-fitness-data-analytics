@@ -4,7 +4,7 @@ import sqlite3
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-from theme import apply_theme
+
 
 
 # ============================================================
@@ -17,7 +17,6 @@ st.set_page_config(
     layout="wide"
 )
 
-apply_theme()
 
 
 # ============================================================
